@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro",
+      "empresa": "PeritaTech",
+      "email": "pedro@pedro.com",
+      "telefono": "12123123",
+      "notas": "Pedro gana banda de guita",
+      "id": 3
+    },
+    {
+      "nombre": "Francisco",
+      "empresa": "FranConstrucciones",
+      "email": "fran@fran.com",
+      "telefono": "123123123",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Gustavo",
+      "empresa": "BNA",
+      "email": "correo@correo.com",
+      "telefono": "12312312313",
+      "notas": "Cliente trabaja en el banco nacion",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar Perez",
+      "empresa": "EdgarTaxis",
+      "email": "correo@correo.com",
+      "telefono": "123123123123",
+      "notas": "Taxis baratos ",
+      "id": 8
+    }
+  ]
+}
